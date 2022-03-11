@@ -1,0 +1,93 @@
+.logo{
+    width: 80px;
+}
+.text-white1{
+    font-size: 20px;
+    font-weight: bold;
+    color:black;  
+}
+
+.menu{
+    z-index: 10;
+}
+
+.banner{
+    background-image: url("../imagenes/tacos_de_pollo_a_la_cerveza.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.fondo{
+    height: 100vh;
+    margin-left: 50px;
+
+}
+.sesion-2{
+    background-image: url("../imagenes/imagen-fondo-diagonal-gris-sobres.png");
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
+h3{
+    font-family: 'Staatliches';
+}
+.fondo h1{
+    font-size: 50px;
+    font-weight: 300;
+}
+.fondo h3{
+    font-size: 100px;
+}
+.sesion-3{
+    background-image: url("../imagenes/imagen de tacos.jpg");
+    background-size: cover;
+    height: 550px;
+    width: 100%;
+    background-attachment: fixed;
+}
+.descripcion h1,
+.descripcion h3{
+    font-size: 50px;
+    font-weight: 300;
+}
+.descripcion h3{
+    font-size: 30px;
+}
+.sesion-3 p{
+    font-size: 25px;
+}
+.color-text{
+    color: 	#800000;
+}
+.text-size{
+    font-size: 20px;
+}
+.sesion-4{
+    margin: 50px;
+}
+.sesion-5{
+    background-image: url("../imagenes/stock-photo-top-view-delicious-tacos-ingredients.jpg");
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    background-attachment: fixed;
+}
+.sesion-5, p{
+    font-size: 20px;
+    margin: 30px;
+}
+.tenedor{
+    height: 80px;
+    width: 80px;
+}
+.chili{
+    height: 80px;
+    width: 80px;
+}
+.rama{
+    height: 80px;
+    width: 80px;
+}
+.queso{
+    height: 80px;
+    width: 80px;
+}
